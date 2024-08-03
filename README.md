@@ -1,5 +1,5 @@
 ## Hi there - I'm Simon👋
-![Logo](https://github.com/szymonizydorek/szymonizydorek/blob/main/python.svg)
+
 
 ## 👨‍💻 About Me
 I am a DevOps Engineer with a passion for networking, cybersecurity and Linux. I enjoy working on projects that help to solve real-life problems with the infrastructure
@@ -13,3 +13,4 @@ I am a DevOps Engineer with a passion for networking, cybersecurity and Linux. I
 - [LinkedIn](https://www.linkedin.com/in/sizydorek/)
 - [YouTube](https://www.linkedin.com/in/sizydorek/)
 - [Email](izydorek.szymon@gmail.com)
+![Logo](https://github.com/szymonizydorek/szymonizydorek/blob/main/python.svg)
